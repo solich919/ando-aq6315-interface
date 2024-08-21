@@ -1,0 +1,2 @@
+PyVISA==1.14.1
+typing-extensions==4.12.2
